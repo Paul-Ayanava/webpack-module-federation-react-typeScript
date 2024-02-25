@@ -1,0 +1,1 @@
+This is an example of module federation using webpack for React applications using typeScript.
